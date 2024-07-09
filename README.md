@@ -13,9 +13,9 @@ To use this Alexa skill, simply enable it on your Alexa device and ask questions
 • "Alexa, ask GPT how to create a new deployment in Kubernetes."  
 
 ## Features:  
-Topic Information: Users can ask for explanations on various Kubernetes topics such as pods and services.  
-Command Usage: Provides detailed usage information on common Kubernetes commands like kubectl apply, kubectl get, and more.  
-Dynamic Q&A: Integration with OpenAI's GPT allows users to ask specific questions and receive detailed, dynamic answers.  
+**Topic Information**: Users can ask for explanations on various Kubernetes topics such as pods and services.  
+**Command Usage**: Provides detailed usage information on common Kubernetes commands like kubectl apply, kubectl get, and more.  
+**Dynamic Q&A**: Integration with OpenAI's GPT allows users to ask specific questions and receive detailed, dynamic answers.  
 
 ## What I learned:  
 Developing this Alexa skill involved learning how to host serverless code using AWS Lambda, which provided a cost-effective and scalable solution. The integration with OpenAI's GPT was particularly exciting as it allowed for dynamic responses, making the skill more interactive and useful. I use this Alexa skill on a regular basis while learning more
