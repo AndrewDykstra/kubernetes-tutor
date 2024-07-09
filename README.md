@@ -1,3 +1,4 @@
+# Kubernetes Tutor Alexa Skill
 • Developed an Alexa Skill to assist users in learning Kubernetes concepts, commands, and best practices.  
 • Utilized AWS Lambda, a pay-as-you-go service, to remotely host serverless code, reducing costs by 50% compared to EC2.  
 • Integrated with OpenAI's GPT to answer specific Kubernetes-related queries dynamically.  
