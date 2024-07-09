@@ -1,5 +1,5 @@
 {
-    "name": "kubernetes-helper",
+    "name": "kubernetes-tutor",
     "version": "1.0.0",
     "description": "An Alexa skill to help users learn Kubernetes commands and concepts",
     "main": "index.js",
