@@ -1,0 +1,17 @@
+{
+    "name": "kubernetes-helper",
+    "version": "1.0.0",
+    "description": "An Alexa skill to help users learn Kubernetes commands and concepts",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Andrew Dykstra",
+    "license": "ISC",
+    "dependencies": {
+      "ask-sdk-core": "^2.10.0",
+      "axios": "^0.21.1"
+    }
+  }
+  
