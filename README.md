@@ -17,6 +17,7 @@ Topic Information: Users can ask for explanations on various Kubernetes topics s
 Command Usage: Provides detailed usage information on common Kubernetes commands like kubectl apply, kubectl get, and more.
 Dynamic Q&A: Integration with OpenAI's GPT allows users to ask specific questions and receive detailed, dynamic answers.
 
+## What I learned:  
 Developing this Alexa skill involved learning how to host serverless code using AWS Lambda, which provided a cost-effective and scalable solution. The integration with OpenAI's GPT was particularly exciting as it allowed for dynamic responses, making the skill more interactive and useful. I use this Alexa skill on a regular basis while learning more
 about kubernetes and working on my personal projects.
 
